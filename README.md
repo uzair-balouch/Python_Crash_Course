@@ -1,5 +1,5 @@
 # Python_Crash_Course
->>>>>>>>>>>>>>> Graph Example  from Video 11 <<<<<<<<<<<<<<<<
+#>>>>>>>>>>>>>>> Graph Example  from Video 11 <<<<<<<<<<<<<<<<
 
 graph = {
 "0" : ["1","4"],
@@ -23,7 +23,7 @@ def define_edges(connection):
 
 
 
->>>>>>>>>>>>>>> Tree Example  from Video 12 <<<<<<<<<<<<<<<<
+#>>>>>>>>>>>>>>> Tree Example  from Video 12 <<<<<<<<<<<<<<<<
 class Tree:
 	def __init__(self,info,left=None,right=None):
 		self.info = info
